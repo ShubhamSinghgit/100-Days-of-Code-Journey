@@ -33,3 +33,8 @@ iv. Reflections on the learning experience.</p>
 a. A markdown file (<a href="http://log.md">log.md</a>) summarizing the day’s progress.<br>
 b. Code files or project folders associated with the day’s work.<br>
 c. /projects: Separate folder for larger projects undertaken during the challenge.</p>
+
+<p class="has-line-data" data-line-start="0" data-line-end="2">Connect with Me<br>
+Feel free to connect with me on social media to share your thoughts, provide feedback, or ask questions. Let’s learn and grow together!</p>
+<p class="has-line-data" data-line-start="3" data-line-end="5">Twitter: <a href="https://twitter.com/__shubhamtwt">https://twitter.com/__shubhamtwt</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/shubham-singh-435220222/">https://www.linkedin.com/in/shubham-singh-435220222/</a></p>
